@@ -1,0 +1,22 @@
+# Core dependencies
+numpy==1.23.5
+# hashlib==20081119  # Commented out or removed
+python-dotenv==1.0.0
+tf-keras
+
+# AI/ML dependencies
+torch==2.0.1
+transformers==4.35.0
+datasets
+sentencepiece==0.1.99
+
+# General utilities
+requests==2.31.0
+tqdm==4.66.1
+
+# For development and debugging
+pytest==7.4.2
+pylint==2.17.5
+
+# For Hugging Face Spaces compatibility
+gradio==3.36.1

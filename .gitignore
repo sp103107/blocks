@@ -1,0 +1,54 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+*.egg-info/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs and Database Files
+*.log
+*.sqlite3
+*.db
+
+# Environment Variables
+.env
+
+# Compiled Files
+*.so
+*.dylib
+*.dll
+
+# Large Files
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Machine Learning Artifacts
+*.h5
+*.ckpt
+*.onnx
+*.tflite
+*.weights
+*.safetensors
+
+# Large Libraries
+*.whl
+*.dylib
+*.a
+*.o
+
+# IDE Files
+.idea/
+.vscode/
+
+# Other Unnecessary Files
+node_modules/
+tmp/

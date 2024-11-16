@@ -1,0 +1,33 @@
+[
+    {
+        "block_id": 0,
+        "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "timestamp": 1699464000.0,
+        "transactions": [],
+        "ai_validation_score": 0.0,
+        "metadata": "Genesis Block",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+        "block_id": 1,
+        "previous_hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "timestamp": 1731724436.520396,
+        "transactions": [
+            "Alice sends 5 tokens to Bob"
+        ],
+        "ai_validation_score": 1.0,
+        "metadata": "First transaction",
+        "hash": "618229b3f41f4b844e25540edcbaf22ad5699ce15bb2b9a0faadee2dc0f290cf"
+    },
+    {
+        "block_id": 2,
+        "previous_hash": "618229b3f41f4b844e25540edcbaf22ad5699ce15bb2b9a0faadee2dc0f290cf",
+        "timestamp": 1731724436.5205839,
+        "transactions": [
+            "Bob sends 3 tokens to Charlie"
+        ],
+        "ai_validation_score": 1.0,
+        "metadata": "Second transaction",
+        "hash": "f0c96e954e023053355ec511cba7e565389f6220a4bbfc11d412e19020be3942"
+    }
+]
